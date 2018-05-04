@@ -36,7 +36,13 @@ text("blue rectangle", 100,125);
 textSize(20);
 fill(69,69,69);
 text("gray rectangle", 300,125);
-
-
+fill(100,145,678,87);
+ellipse(330,300,300,300);
+fill(568,240,100,567);
+ellipse(250,250,50,50);
+ellipse(400,250,50,50);
+fill(276,78,567,543);
+strokeWeight(10);
+line(200,358,350,350);
 
 }
